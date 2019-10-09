@@ -1,3 +1,3 @@
 class Dog
- fido
+ def initalize("fido")
 end
