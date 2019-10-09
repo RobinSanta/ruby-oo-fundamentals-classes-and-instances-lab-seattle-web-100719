@@ -1,3 +1,3 @@
 class Dog
-  def ins
+ fido
 end
